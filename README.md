@@ -1,0 +1,2 @@
+# PINNS-MJ
+one dimension
